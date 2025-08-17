@@ -15,7 +15,7 @@ import android.os.Looper;
 public class UpdateService extends Service {
     private static final String TAG = "UpdateService";
     private static final String WEBSITE_URL = "https://great-awareness-studio.vercel.app/";
-    private static final long UPDATE_CHECK_INTERVAL = 3600000; // 1 hour in milliseconds
+    private static final long UPDATE_CHECK_INTERVAL = 60000; // 1 minute in milliseconds
     
     private Handler handler;
     private WebView webView;

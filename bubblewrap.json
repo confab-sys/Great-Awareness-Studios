@@ -40,7 +40,7 @@
   "targetArchitectures": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"],
   "enableTwa": true,
   "enableUpdates": true,
-  "updateCheckInterval": 3600000,
+  "updateCheckInterval": 60000,
   "twaManifest": {
     "name": "Great Awareness Studio",
     "short_name": "Awareness Studio",

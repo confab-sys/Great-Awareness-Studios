@@ -25,7 +25,7 @@ try {
         console.log('\n✅ APK built successfully with auto-update functionality!');
         console.log(`📱 APK location: ${apkPath}`);
         console.log('\n🔧 Auto-update features enabled:');
-        console.log('   • Automatic update checks every hour');
+        console.log('   • Automatic update checks every minute');
         console.log('   • Background service for update monitoring');
         console.log('   • Network connectivity monitoring');
         console.log('   • Seamless updates from Vercel website');
