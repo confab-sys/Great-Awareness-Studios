@@ -8,7 +8,7 @@ console.log('🚀 Starting Android APK build process...\n');
 function checkVercelDeployment() {
     try {
         console.log('📡 Checking if Vercel deployment is accessible...');
-        const response = execSync('curl -s -o nul -w "%{http_code}" https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app', { encoding: 'utf8' });
+        const response = execSync('curl -s -o nul -w "%{http_code}" https://great-awareness-studio.vercel.app', { encoding: 'utf8' });
         if (response.trim() === '200') {
             console.log('✅ Vercel deployment is accessible');
             return true;
@@ -33,7 +33,7 @@ function initBubblewrap() {
             return true;
         }
         
-        execSync('npx @bubblewrap/cli init --manifest https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app/manifest.json --directory android', { 
+        execSync('npx @bubblewrap/cli init --manifest https://great-awareness-studio.vercel.app/manifest.json --directory android', { 
             stdio: 'inherit' 
         });
         
@@ -94,7 +94,7 @@ async function main() {
     // Step 1: Check Vercel deployment
     if (!checkVercelDeployment()) {
         console.log('\n💡 Please check your Vercel deployment first:');
-        console.log('   https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app');
+        console.log('   https://great-awareness-studio.vercel.app');
         console.log('\nThen run this script again.');
         process.exit(1);
     }

@@ -19,10 +19,10 @@ com.greatawareness.studio.app-lifecycle-livedata-2.6.2-17 C:\Users\Great Awarene
 com.greatawareness.studio.app-jetified-annotation-experimental-1.4.1-18 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cb3f6cb552e9adf14a7399dc581e0424\transformed\jetified-annotation-experimental-1.4.1\res
 com.greatawareness.studio.app-jetified-startup-runtime-1.1.1-19 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\res
 com.greatawareness.studio.app-jetified-core-ktx-1.13.0-20 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\f42baf5a286bba79c45bdb961ef42c7c\transformed\jetified-core-ktx-1.13.0\res
-com.greatawareness.studio.app-pngs-21 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\generated\res\pngs\release
-com.greatawareness.studio.app-resValues-22 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\generated\res\resValues\release
-com.greatawareness.studio.app-packageReleaseResources-23 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.greatawareness.studio.app-packageReleaseResources-24 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.greatawareness.studio.app-release-25 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\merged_res\release\mergeReleaseResources
-com.greatawareness.studio.app-main-26 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\res
-com.greatawareness.studio.app-release-27 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\release\res
+com.greatawareness.studio.app-pngs-21 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\build\generated\res\pngs\release
+com.greatawareness.studio.app-resValues-22 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\build\generated\res\resValues\release
+com.greatawareness.studio.app-packageReleaseResources-23 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.greatawareness.studio.app-packageReleaseResources-24 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.greatawareness.studio.app-release-25 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.greatawareness.studio.app-main-26 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\src\main\res
+com.greatawareness.studio.app-release-27 C:\Users\Great Awareness\Desktop\Great Awareness Studio\android\app\src\release\res

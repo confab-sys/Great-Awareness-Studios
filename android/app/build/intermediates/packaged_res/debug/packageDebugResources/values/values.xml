@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enableNotification">true</bool>
+    <bool name="enableSiteSettingsShortcut">true</bool>
+    <color name="backgroundColor">#667EEA</color>
+    <color name="colorPrimary">#4A90E2</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="navigationColor">#000000</color>
+    <color name="navigationColorDark">#000000</color>
+    <color name="navigationDividerColor">#000000</color>
+    <color name="navigationDividerColorDark">#000000</color>
+    <color name="shortcut_background">#F5F5F5</color>
+    <integer name="splashScreenFadeOutDuration">300</integer>
+    <string name="appName" translatable="false">Great Awareness Studio</string>
+    <string name="assetStatements">
+    [{
+        \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+        \"target\": {
+            \"namespace\": \"web\",
+            \"site\": \"https://y\"
+        }
+    }]
+    
+  </string>
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="fullScopeUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
+    <string name="generatorApp" translatable="false">bubblewrap-cli</string>
+    <string name="hostName" translatable="false">great-awareness-studio.vercel.app</string>
+    <string name="launchUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
+    <string name="launcherName" translatable="false">Great Awareness Studio</string>
+    <string name="orientation" translatable="false">portrait-primary</string>
+    <string name="providerAuthority" translatable="false">com.greatawareness.studio.fileprovider</string>
+    <string name="shortcut_name_0" translatable="false">Start Mindfulness</string>
+    <string name="shortcut_name_1" translatable="false">Open Journal</string>
+    <string name="shortcut_name_2" translatable="false">Breathing Exercise</string>
+    <string name="shortcut_short_name_0" translatable="false">Mindfulness</string>
+    <string name="shortcut_short_name_1" translatable="false">Journal</string>
+    <string name="shortcut_short_name_2" translatable="false">Breathing</string>
+    <string name="webManifestUrl" translatable="false">https://great-awareness-studio.vercel.app/manifest.json</string>
+</resources>

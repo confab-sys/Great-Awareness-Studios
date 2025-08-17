@@ -334,14 +334,14 @@
     <string name="call_notification_ongoing_text">Ongoing call</string>
     <string name="call_notification_screening_text">Screening an incoming call</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="fallbackType" translatable="false">webview</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="fullScopeUrl" translatable="false">http://192.168.100.25:8000/</string>
+    <string name="fullScopeUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
-    <string name="hostName" translatable="false">192.168.100.25:8000</string>
-    <string name="launchUrl" translatable="false">https://192.168.100.25:8000/</string>
+    <string name="hostName" translatable="false">great-awareness-studio.vercel.app</string>
+    <string name="launchUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
     <string name="launcherName" translatable="false">Great Awareness Studio</string>
     <string name="manage_space_no_data_toast">This app holds no browsing data.</string>
     <string name="manage_space_not_supported_toast">This app\'s data is stored in %1$s.</string>
@@ -357,7 +357,7 @@
     <string name="shortcut_short_name_2" translatable="false">Breathing</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="update_chrome_toast">Please update to Chrome Stable 72 or later.</string>
-    <string name="webManifestUrl" translatable="false">http://192.168.100.25:8000/manifest.json</string>
+    <string name="webManifestUrl" translatable="false">https://great-awareness-studio.vercel.app/manifest.json</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

@@ -22,11 +22,11 @@
     }]
     
   </string>
-    <string name="fallbackType" translatable="false">customtabs</string>
-    <string name="fullScopeUrl" translatable="false">http://192.168.100.25:8000/</string>
+    <string name="fallbackType" translatable="false">webview</string>
+    <string name="fullScopeUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
-    <string name="hostName" translatable="false">192.168.100.25:8000</string>
-    <string name="launchUrl" translatable="false">https://192.168.100.25:8000/</string>
+    <string name="hostName" translatable="false">great-awareness-studio.vercel.app</string>
+    <string name="launchUrl" translatable="false">https://great-awareness-studio.vercel.app/</string>
     <string name="launcherName" translatable="false">Great Awareness Studio</string>
     <string name="orientation" translatable="false">portrait-primary</string>
     <string name="providerAuthority" translatable="false">com.greatawareness.studio.fileprovider</string>
@@ -36,5 +36,5 @@
     <string name="shortcut_short_name_0" translatable="false">Mindfulness</string>
     <string name="shortcut_short_name_1" translatable="false">Journal</string>
     <string name="shortcut_short_name_2" translatable="false">Breathing</string>
-    <string name="webManifestUrl" translatable="false">http://192.168.100.25:8000/manifest.json</string>
+    <string name="webManifestUrl" translatable="false">https://great-awareness-studio.vercel.app/manifest.json</string>
 </resources>

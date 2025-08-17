@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.greatawareness.studio.app-mergeDebugResources-23:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Great Awareness\\.gradle\\caches\\8.13\\transforms\\89944311035b91d164c52dfa971a46e8\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
