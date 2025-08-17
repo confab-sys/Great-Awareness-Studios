@@ -1,6 +1,6 @@
 {
-  "manifestUrl": "https://192.168.100.25:8000/manifest.json",
-  "host": "192.168.100.25:8000",
+  "manifestUrl": "https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app/manifest.json",
+  "host": "great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app",
   "packageId": "com.greatawareness.studio",
   "appVersionName": "1.0.0",
   "appVersionCode": 1,

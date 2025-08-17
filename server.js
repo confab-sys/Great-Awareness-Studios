@@ -37,9 +37,9 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  let filePath = '.' + req.url;
-  if (filePath === './') {
-    filePath = './index.html';
+  let filePath = './public' + req.url;
+  if (filePath === './public/') {
+    filePath = './public/index.html';
   }
 
   const extname = String(path.extname(filePath)).toLowerCase();
@@ -49,7 +49,7 @@ const server = http.createServer((req, res) => {
     if (error) {
       if (error.code === 'ENOENT') {
         // File not found, serve index.html for SPA routing
-        fs.readFile('./index.html', (err, content) => {
+        fs.readFile('./public/index.html', (err, content) => {
           if (err) {
             res.writeHead(500);
             res.end('Error loading index.html');

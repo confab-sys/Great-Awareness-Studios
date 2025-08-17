@@ -4,21 +4,20 @@ const path = require('path');
 
 console.log('🚀 Starting Android APK build process...\n');
 
-// Check if server is running
-function checkServer() {
+// Check if Vercel deployment is accessible
+function checkVercelDeployment() {
     try {
-        console.log('📡 Checking if server is running...');
-        const response = execSync('curl -s -o nul -w "%{http_code}" http://192.168.100.25:8000', { encoding: 'utf8' });
+        console.log('📡 Checking if Vercel deployment is accessible...');
+        const response = execSync('curl -s -o nul -w "%{http_code}" https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app', { encoding: 'utf8' });
         if (response.trim() === '200') {
-            console.log('✅ Server is running and accessible');
+            console.log('✅ Vercel deployment is accessible');
             return true;
         } else {
-            console.log('❌ Server is not responding properly');
+            console.log('❌ Vercel deployment is not responding properly');
             return false;
         }
     } catch (error) {
-        console.log('❌ Cannot connect to server. Please start the server first:');
-        console.log('   npm start');
+        console.log('❌ Cannot connect to Vercel deployment. Please check your deployment first.');
         return false;
     }
 }
@@ -34,7 +33,7 @@ function initBubblewrap() {
             return true;
         }
         
-        execSync('npx @bubblewrap/cli init --manifest http://192.168.100.25:8000/manifest.json --directory android', { 
+        execSync('npx @bubblewrap/cli init --manifest https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app/manifest.json --directory android', { 
             stdio: 'inherit' 
         });
         
@@ -87,15 +86,15 @@ function buildAPK() {
 async function main() {
     console.log('Great Awareness Studio - Android APK Builder\n');
     console.log('This script will:');
-    console.log('1. Check if your server is running');
+    console.log('1. Check if your Vercel deployment is accessible');
     console.log('2. Initialize Bubblewrap project (if needed)');
     console.log('3. Build the Android APK');
     console.log('4. Provide you with the APK file location\n');
     
-    // Step 1: Check server
-    if (!checkServer()) {
-        console.log('\n💡 Please start your server first:');
-        console.log('   npm start');
+    // Step 1: Check Vercel deployment
+    if (!checkVercelDeployment()) {
+        console.log('\n💡 Please check your Vercel deployment first:');
+        console.log('   https://great-awareness-studio-9ps8i1rg4-confab-sys-projects.vercel.app');
         console.log('\nThen run this script again.');
         process.exit(1);
     }
