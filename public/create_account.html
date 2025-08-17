@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        body {
+            background-color: #D3E4DE;
+            min-height: 100vh;
+            width: 100%;
+            font-family: 'Public Sans', sans-serif;
+            padding: 40px;
+        }
+        .header-text {
+            font-weight: bold;
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .page-title {
+            font-weight: bold;
+            font-size: 48px;
+            color: #333;
+            line-height: 1.2;
+            margin-bottom: 40px;
+        }
+        .content-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 60vh;
+        }
+        .form-container {
+            background: #D3E4DE;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #E42F45;
+            color: #000;
+        }
+        .form-group input:focus {
+            outline: none;
+            border-color: #007BFF;
+        }
+        .create-account-button {
+            width: 100%;
+            padding: 15px;
+            background-color: #E42F45;
+            color: #000;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 18px;
+            font-family: 'Public Sans', sans-serif;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .create-account-button:hover {
+            background-color: #B22439;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header-text">Great Awareness</div>
+    <div class="page-title">Not Yet A Member? Create Account</div>
+    
+    <div class="content-container">
+        <div class="form-container">
+            <form>
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="mobile">Mobile Number</label>
+                    <input type="tel" id="mobile" name="mobile" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="location">Location</label>
+                    <input type="text" id="location" name="location" required>
+                </div>
+            </form>
+        </div>
+        <button class="create-account-button">Join Community</button>
+    </div>
+</body>
+</html>
