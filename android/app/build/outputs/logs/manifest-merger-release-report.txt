@@ -1,0 +1,450 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:22:1-190:12
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:22:1-190:12
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:22:1-190:12
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:22:1-190:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8058b77390202e4bc221471c5a3d3dab\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\89944311035b91d164c52dfa971a46e8\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7370ca55a2cadbd35c8f91b9fac0f038\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.9.0-alpha04] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\6b988000ec14ce33cc46c1d676ff4244\transformed\browser-1.9.0-alpha04\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8ce4592ef38eb5fe2e859dc39d1f3799\transformed\jetified-activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\f42baf5a286bba79c45bdb961ef42c7c\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7c522075cf1828034274fb41fe38086a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\59257aaba0550e32882350ea98258e1e\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\00887c5e4570f3b7ce67de2e4e4e48b2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cce8c6cc5f02a9dab063896d00bf2aab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\04438cb6870fcae503b248d2838b97cd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\99cae7351bb53b5b7488f2283a78c107\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c65fc4ecc38f54a7580edad241cb1c50\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c3e70589fe81e93f279fb92995818124\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4e246fc0e238b39a0c6af704965784af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\76de1125f7c179b99ca0f6008d11c804\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\999abb2cf9d748651adb1a8c991e6e83\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4324cbd56c4aeefbaa0ccba0d1a13c2d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7927bca333671901cae04acbbb951b26\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\031906e5f33d50ecdb538b7651708c12\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\70a39d2b3e7cbe2fefa279b3cc863fe1\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\bb94a8cd1928853b385e5a3061fa8bf8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\216afcb0f04e237fbec3ac6699d382b5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3ef03a4d591efecc1d29654db6d9a785\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cb3f6cb552e9adf14a7399dc581e0424\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:22:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:25:9-80
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:25:26-78
+application
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:34:5-189:19
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:34:5-189:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\bb94a8cd1928853b385e5a3061fa8bf8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\bb94a8cd1928853b385e5a3061fa8bf8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:42:9-35
+	android:label
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:38:9-40
+	android:manageSpaceActivity
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:40:9-105
+	android:icon
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:37:9-43
+	android:allowBackup
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:43:9-68
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:35:9-35
+meta-data#asset_statements
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:45:9-47:58
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:47:13-55
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:46:13-44
+meta-data#web_manifest_url
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:50:13-52:58
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:52:17-55
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:51:17-48
+meta-data#twa_generator
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:55:9-57:52
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:56:13-41
+activity#com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:64:13-68:24
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:64:23-104
+meta-data#android.support.customtabs.trusted.MANAGE_SPACE_URL
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:65:13-67:53
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:67:17-50
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:66:17-83
+activity#com.greatawareness.studio.LauncherActivity
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:71:9-150:20
+	android:label
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:73:13-49
+	android:exported
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:74:13-36
+	android:alwaysRetainTaskState
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:71:19-50
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:75:13-76:53
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:76:17-50
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:75:24-85
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:78:13-80:58
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:80:17-55
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:79:17-83
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:84:13-86:62
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:86:17-59
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:85:17-88
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:88:13-90:61
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:90:17-58
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:89:17-87
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:92:13-94:65
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:94:17-62
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:93:17-92
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:96:13-98:68
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:98:17-65
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:97:17-84
+meta-data#androix.browser.trusted.NAVIGATION_BAR_DIVIDER_COLOR_DARK
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:100:13-102:72
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:102:17-69
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:101:17-89
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:104:13-105:54
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:105:17-52
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:104:24-95
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:107:13-108:60
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:108:17-58
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:107:24-104
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:110:13-111:71
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:111:17-69
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:110:24-105
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:113:13-114:60
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:114:17-58
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:113:24-97
+meta-data#android.app.shortcuts
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:116:13-97
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:116:61-94
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:116:24-60
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:118:13-119:56
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:119:17-53
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:118:24-91
+meta-data#android.support.customtabs.trusted.SCREEN_ORIENTATION
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:125:13-126:54
+	android:value
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:126:17-52
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:125:24-92
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:132:13-135:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:133:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:134:17-77
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:134:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/hostName+data:scheme:https
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:137:13-145:29
+	android:autoVerify
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:137:28-53
+action#android.intent.action.VIEW
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:138:17-68
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:138:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:139:17-76
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:139:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:140:17-77
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:140:27-75
+data
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:141:17-144:19
+	android:host
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:142:21-52
+	android:scheme
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:141:23-45
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:152:9-90
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:152:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:154:9-155:62
+	android:configChanges
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:155:13-59
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:154:19-97
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:157:9-165:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:160:13-47
+	android:authorities
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:159:13-60
+	android:exported
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:158:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:162:13-164:53
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:164:17-50
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:163:17-67
+service#com.greatawareness.studio.DelegationService
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:167:9-182:19
+	android:enabled
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:169:13-55
+	android:exported
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:170:13-56
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:168:13-46
+meta-data#android.support.customtabs.trusted.SMALL_ICON
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:173:17-175:73
+	android:resource
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:175:21-70
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:174:21-81
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:178:13-181:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:179:17-105
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:179:25-103
+activity#com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity
+ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:185:13-118
+	android:name
+		ADDED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml:185:23-115
+uses-sdk
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8058b77390202e4bc221471c5a3d3dab\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8058b77390202e4bc221471c5a3d3dab\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\89944311035b91d164c52dfa971a46e8\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\89944311035b91d164c52dfa971a46e8\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7370ca55a2cadbd35c8f91b9fac0f038\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7370ca55a2cadbd35c8f91b9fac0f038\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.9.0-alpha04] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\6b988000ec14ce33cc46c1d676ff4244\transformed\browser-1.9.0-alpha04\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.9.0-alpha04] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\6b988000ec14ce33cc46c1d676ff4244\transformed\browser-1.9.0-alpha04\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8ce4592ef38eb5fe2e859dc39d1f3799\transformed\jetified-activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8ce4592ef38eb5fe2e859dc39d1f3799\transformed\jetified-activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\f42baf5a286bba79c45bdb961ef42c7c\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\f42baf5a286bba79c45bdb961ef42c7c\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7c522075cf1828034274fb41fe38086a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7c522075cf1828034274fb41fe38086a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\59257aaba0550e32882350ea98258e1e\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\59257aaba0550e32882350ea98258e1e\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\00887c5e4570f3b7ce67de2e4e4e48b2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\00887c5e4570f3b7ce67de2e4e4e48b2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cce8c6cc5f02a9dab063896d00bf2aab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cce8c6cc5f02a9dab063896d00bf2aab\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\04438cb6870fcae503b248d2838b97cd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\04438cb6870fcae503b248d2838b97cd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\99cae7351bb53b5b7488f2283a78c107\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\99cae7351bb53b5b7488f2283a78c107\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c65fc4ecc38f54a7580edad241cb1c50\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c65fc4ecc38f54a7580edad241cb1c50\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c3e70589fe81e93f279fb92995818124\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c3e70589fe81e93f279fb92995818124\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4e246fc0e238b39a0c6af704965784af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4e246fc0e238b39a0c6af704965784af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\76de1125f7c179b99ca0f6008d11c804\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\76de1125f7c179b99ca0f6008d11c804\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\999abb2cf9d748651adb1a8c991e6e83\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\999abb2cf9d748651adb1a8c991e6e83\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4324cbd56c4aeefbaa0ccba0d1a13c2d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4324cbd56c4aeefbaa0ccba0d1a13c2d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7927bca333671901cae04acbbb951b26\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7927bca333671901cae04acbbb951b26\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\031906e5f33d50ecdb538b7651708c12\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\031906e5f33d50ecdb538b7651708c12\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\70a39d2b3e7cbe2fefa279b3cc863fe1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\70a39d2b3e7cbe2fefa279b3cc863fe1\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\bb94a8cd1928853b385e5a3061fa8bf8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\bb94a8cd1928853b385e5a3061fa8bf8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\216afcb0f04e237fbec3ac6699d382b5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\216afcb0f04e237fbec3ac6699d382b5\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3ef03a4d591efecc1d29654db6d9a785\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3ef03a4d591efecc1d29654db6d9a785\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cb3f6cb552e9adf14a7399dc581e0424\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cb3f6cb552e9adf14a7399dc581e0424\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\AndroidManifest.xml:22:5-30:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\AndroidManifest.xml:23:9-29:18
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.greatawareness.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.greatawareness.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,66 @@
+{
+  "name": "great-awareness-studio",
+  "version": "1.0.0",
+  "description": "A Progressive Web App for mindfulness and awareness practice",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "http-server -p 8000 -c-1 --cors",
+    "serve": "http-server -p 8000 -c-1 --cors",
+    "ip": "node get-ip.js",
+    "electron": "electron .",
+    "electron-dev": "electron . --dev",
+    "build": "electron-builder",
+    "build-win": "electron-builder --win",
+    "build-mac": "electron-builder --mac",
+    "build-linux": "electron-builder --linux",
+    "android-init": "npx @bubblewrap/cli init --manifest https://192.168.100.25:8000/manifest.json",
+    "android-build": "npx @bubblewrap/cli build",
+    "android-build-local": "npx @bubblewrap/cli build --config bubblewrap-local.json",
+    "android-update": "npx @bubblewrap/cli update",
+    "android-validate": "npx @bubblewrap/cli validate",
+    "android-run": "npx @bubblewrap/cli run",
+    "build-apk": "node build-android.js",
+    "build-apk-tencent": "node build-android-tencent.js",
+    "build-apk-signed": "node build-android-signed.js"
+  },
+  "keywords": ["pwa", "mindfulness", "awareness", "progressive-web-app"],
+  "author": "Great Awareness Studio",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.greatawareness.studio",
+    "productName": "Great Awareness Studio",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*",
+      "!node_modules/**/*",
+      "!dist/**/*",
+      "!build/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "icons/icon-512.png"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "icons/icon-512.png"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "icons/icon-512.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+com.greatawareness.studio.app-core-runtime-2.2.0-0 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3ef03a4d591efecc1d29654db6d9a785\transformed\core-runtime-2.2.0\res
+com.greatawareness.studio.app-jetified-profileinstaller-1.3.1-1 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\3fca263b9df9a53e56dbf8725df62756\transformed\jetified-profileinstaller-1.3.1\res
+com.greatawareness.studio.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-2 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4324cbd56c4aeefbaa0ccba0d1a13c2d\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.greatawareness.studio.app-core-1.13.0-3 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\436fd8ab8c7f417c90d0b2440a23fe83\transformed\core-1.13.0\res
+com.greatawareness.studio.app-lifecycle-viewmodel-2.6.2-4 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\4e246fc0e238b39a0c6af704965784af\transformed\lifecycle-viewmodel-2.6.2\res
+com.greatawareness.studio.app-jetified-lifecycle-process-2.6.2-5 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\56d1f3ce476990c905dda0706552ab1c\transformed\jetified-lifecycle-process-2.6.2\res
+com.greatawareness.studio.app-jetified-emoji2-views-helper-1.3.0-6 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\59257aaba0550e32882350ea98258e1e\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.greatawareness.studio.app-browser-1.9.0-alpha04-7 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\6b988000ec14ce33cc46c1d676ff4244\transformed\browser-1.9.0-alpha04\res
+com.greatawareness.studio.app-fragment-1.5.4-8 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7370ca55a2cadbd35c8f91b9fac0f038\transformed\fragment-1.5.4\res
+com.greatawareness.studio.app-lifecycle-livedata-core-2.6.2-9 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\76de1125f7c179b99ca0f6008d11c804\transformed\lifecycle-livedata-core-2.6.2\res
+com.greatawareness.studio.app-jetified-savedstate-1.2.1-10 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\7927bca333671901cae04acbbb951b26\transformed\jetified-savedstate-1.2.1\res
+com.greatawareness.studio.app-jetified-appcompat-resources-1.7.0-11 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8058b77390202e4bc221471c5a3d3dab\transformed\jetified-appcompat-resources-1.7.0\res
+com.greatawareness.studio.app-jetified-emoji2-1.3.0-12 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\88384eeaf68e9da05bdde07dc07f6d72\transformed\jetified-emoji2-1.3.0\res
+com.greatawareness.studio.app-appcompat-1.7.0-13 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\89944311035b91d164c52dfa971a46e8\transformed\appcompat-1.7.0\res
+com.greatawareness.studio.app-jetified-androidbrowserhelper-2.6.2-14 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8a6736fe68cf22bf58fc4993e3d543f4\transformed\jetified-androidbrowserhelper-2.6.2\res
+com.greatawareness.studio.app-jetified-activity-1.9.0-15 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\8ce4592ef38eb5fe2e859dc39d1f3799\transformed\jetified-activity-1.9.0\res
+com.greatawareness.studio.app-lifecycle-runtime-2.6.2-16 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\999abb2cf9d748651adb1a8c991e6e83\transformed\lifecycle-runtime-2.6.2\res
+com.greatawareness.studio.app-lifecycle-livedata-2.6.2-17 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\c3e70589fe81e93f279fb92995818124\transformed\lifecycle-livedata-2.6.2\res
+com.greatawareness.studio.app-jetified-annotation-experimental-1.4.1-18 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\cb3f6cb552e9adf14a7399dc581e0424\transformed\jetified-annotation-experimental-1.4.1\res
+com.greatawareness.studio.app-jetified-startup-runtime-1.1.1-19 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\e4201347143ae47161c1651fddbcca41\transformed\jetified-startup-runtime-1.1.1\res
+com.greatawareness.studio.app-jetified-core-ktx-1.13.0-20 C:\Users\Great Awareness\.gradle\caches\8.13\transforms\f42baf5a286bba79c45bdb961ef42c7c\transformed\jetified-core-ktx-1.13.0\res
+com.greatawareness.studio.app-pngs-21 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\generated\res\pngs\release
+com.greatawareness.studio.app-resValues-22 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\generated\res\resValues\release
+com.greatawareness.studio.app-packageReleaseResources-23 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.greatawareness.studio.app-packageReleaseResources-24 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.greatawareness.studio.app-release-25 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.greatawareness.studio.app-main-26 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\main\res
+com.greatawareness.studio.app-release-27 C:\Users\Great Awareness\Desktop\Great Awarness Apps\Great Awareness Studio\android\app\src\release\res
