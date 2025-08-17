@@ -48,6 +48,8 @@ def twaManifest = [
     fallbackType: 'webview',
     enableSiteSettingsShortcut: 'true',
     orientation: 'portrait-primary',
+    // Enable auto-updates by checking for new versions
+    enableUpdates: true,
 ]
 
 android {
