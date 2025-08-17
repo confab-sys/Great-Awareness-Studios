@@ -80,15 +80,7 @@
         .login-button:hover {
             background-color: #B22439;
         }
-        .forgot-password {
-            text-align: center;
-            margin-top: 15px;
-        }
-        .forgot-password a {
-            color: #E42F45;
-            text-decoration: none;
-            font-weight: bold;
-        }
+
         .back-link {
             text-align: center;
             margin-top: 20px;
@@ -181,9 +173,6 @@
             </form>
         </div>
         <button class="login-button" id="loginBtn">Login</button>
-        <div class="forgot-password">
-            <a href="#" id="forgotPasswordLink">Forgot Password?</a>
-        </div>
         <div class="back-link">
             <a href="index.html">← Back to Home</a>
         </div>
@@ -263,29 +252,12 @@
             }
         }
 
-        function handleForgotPassword() {
-            const email = document.getElementById('email').value;
-            
-            if (!email) {
-                showMessage('Please enter your email address first', true);
-                return;
-            }
 
-            showMessage('Account recovery information has been sent to your email address. Please check your inbox.');
-        }
 
         window.addEventListener('load', function() {
             const loginBtn = document.getElementById('loginBtn');
             if (loginBtn) {
                 loginBtn.addEventListener('click', loginUser);
-            }
-            
-            const forgotPasswordLink = document.getElementById('forgotPasswordLink');
-            if (forgotPasswordLink) {
-                forgotPasswordLink.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    handleForgotPassword();
-                });
             }
 
             const loginForm = document.getElementById('loginForm');
