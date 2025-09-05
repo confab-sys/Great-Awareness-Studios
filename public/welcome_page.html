@@ -28,15 +28,19 @@
         }
         .greeting-container {
             display: flex;
+            flex-direction: row;
             align-items: center;
-            gap: 20px;
-            margin-bottom: 20px;
+            gap: 5px;
+            margin-bottom: 10px;
+            margin-top: -40px;
+            justify-content: flex-start;
         }
         .greeting-text {
             font-weight: bold;
-            font-size: 48px;
+            font-size: 56px;
             color: #333;
             line-height: 1.2;
+            margin-top: 100px;
         }
         .greeting-word {
             display: block;
@@ -44,10 +48,125 @@
         .svg-container {
             width: 172px;
             height: 148px;
-            margin-top: -20px; /* Added to move the SVG upward */
+            margin-left: -70px;
+            margin-top: 0;
+        }
+
+        /* Mobile Responsive Styles */
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 20px 15px;
+            }
+            .header-text {
+                font-size: 20px;
+                margin-bottom: 15px;
+            }
+            .greeting-container {
+                flex-direction: row;
+                align-items: center;
+                gap: 5px;
+                margin-bottom: 10px;
+                margin-top: -35px;
+                justify-content: flex-start;
+            }
+            .greeting-text {
+                font-size: 42px;
+                line-height: 1.1;
+                margin-top: 80px;
+            }
+            .svg-container {
+                width: 120px;
+                height: 103px;
+                margin-top: 0;
+                margin-left: -60px;
+                align-self: center;
+            }
+            .squares-container {
+                margin-top: 80px;
+                gap: 15px;
+            }   max-width: 100%;
+                aspect-ratio: auto;
+            }
+            .square-row {
+                flex-direction: row;
+                gap: 15px;
+            }
+            .red-square {
+                min-height: 120px;
+                padding: 15px;
+            }
+            .square-icon {
+                width: 50px;
+                height: 50px;
+                margin-bottom: 10px;
+            }
+            .square-icon.message-icon {
+                width: 60px;
+                height: 60px;
+            }
+            .square-icon.call-icon {
+                width: 55px;
+                height: 55px;
+            }
+            .square-text {
+                font-size: 16px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            body {
+                padding: 15px 10px;
+            }
+            .header-text {
+                font-size: 18px;
+                margin-bottom: 10px;
+            }
+            .greeting-container {
+                flex-direction: row;
+                align-items: center;
+                gap: 3px;
+                margin-bottom: 10px;
+                margin-top: -30px;
+                justify-content: flex-start;
+            }
+            .greeting-text {
+                font-size: 36px;
+                margin-top: 70px;
+            }
+            .svg-container {
+                width: 100px;
+                height: 86px;
+                margin-top: 0;
+                margin-left: -55px;
+                align-self: center;
+            }
+            .squares-container {
+                margin-top: 70px;
+                gap: 12px;
+            }
+            .red-square {
+                min-height: 100px;
+                padding: 12px;
+            }
+            .square-icon {
+                width: 40px;
+                height: 40px;
+                margin-bottom: 8px;
+            }
+            .square-icon.message-icon {
+                width: 50px;
+                height: 50px;
+            }
+            .square-icon.call-icon {
+                width: 45px;
+                height: 45px;
+            }
+            .square-text {
+                font-size: 14px;
+            }
         }
         .squares-container {
-            margin-top: 40px;
+            margin-top: 90px;
             display: flex;
             flex-direction: column;
             gap: 20px;
@@ -134,8 +253,8 @@
             -19 19 -32 3 -23 2 -23 -16 -6 -22 19 -38 23 -28 6 10 -16 -25 -49 -52 -49
             -13 0 -33 5 -43 10 -14 7 -25 7 -39 -2 -26 -16 -72 -1 -87 29 -9 20 -12 21
             -26 6 -22 -21 -38 -13 -27 15 5 12 21 27 36 33 64 26 93 44 93 59 1 12 4 11
-            15 -4 8 -11 15 -25 16 -30z m-131 -115 c0 -29 -11 -52 -22 -45 -5 3 -8 -2 -6
-            -12 2 -13 -3 -19 -16 -19 -11 0 -21 -6 -24 -14 -2 -8 0 -11 5 -8 6 4 9 -5 7
+            15 -4 8 -11 15 -25 16 -30z m-131 -115 c0 -29 -11 -52 -22 -45 -5 3 -8 -2
+            -6 -12 2 -13 -3 -19 -16 -19 -11 0 -21 -6 -24 -14 -2 -8 0 -11 5 -8 6 4 9 -5 7
             -21 -3 -27 -66 -92 -90 -92 -7 0 -10 -8 -7 -20 7 -26 -13 -50 -43 -50 -12 0
             -30 -10 -38 -22 -9 -12 -16 -17 -16 -11 0 6 12 25 26 42 l26 31 -34 1 c-30 1
             -29 2 21 18 50 17 56 22 82 74 16 31 35 59 42 64 8 4 24 29 35 56 21 48 52 64
